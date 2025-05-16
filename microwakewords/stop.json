@@ -3,7 +3,7 @@
   "wake_word": "Stop",
   "author": "Alexander Lindberg",
   "website": "https://www.github.com/Alekzanther",
-  "model": "./berry.tflite",
+  "model": "./stop.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
