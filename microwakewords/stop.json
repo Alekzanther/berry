@@ -1,0 +1,12 @@
+{
+  "type": "micro",
+  "wake_word": "Stop",
+  "author": "Alexander Lindberg",
+  "website": "https://www.github.com/Alekzanther",
+  "model": "./berry.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
